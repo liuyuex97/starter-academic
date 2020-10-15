@@ -5,7 +5,7 @@ draft: false
 featured: true
 external_link: https://github.com/GuilinZ/Shallow-Learner-Project
 image:
-  filename: demo.png
+  filename: inainting.png
   focal_point: Smart
   preview_only: false
 ---
