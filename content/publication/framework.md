@@ -39,8 +39,8 @@ selected = true
 projects = []
 
 # Links (optional).
-# url_pdf = "pdf/my-paper-name.pdf"
-url_preprint = "https://journals.sagepub.com/doi/10.1177/0954405418816846"
+url_pdf = "https://journals.sagepub.com/doi/10.1177/0954405418816846"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
