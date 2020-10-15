@@ -30,7 +30,7 @@ education:
       year: 2021
     - course: Bachelor of Applied Science
       institution: University of Toronto
-      year: 2016
+      year: 2019
 user_groups:
   - Researchers
   - Visitors
