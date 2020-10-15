@@ -1,5 +1,5 @@
 ---
-title: 3D Object Inpainting
+title: Point Cloud Based Window Frame and Other Indoor Objects Detection
 date: 2020-10-10T06:27:04.754Z
 draft: false
 featured: false
