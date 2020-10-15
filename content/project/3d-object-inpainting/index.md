@@ -2,10 +2,10 @@
 title: 3D Object Inpainting
 date: 2020-10-10T06:27:04.754Z
 draft: false
-featured: false
+featured: true
 external_link: https://github.com/GuilinZ/Shallow-Learner-Project
 image:
-  filename: inainting.png
+  filename: demo.png
   focal_point: Smart
   preview_only: false
 ---
