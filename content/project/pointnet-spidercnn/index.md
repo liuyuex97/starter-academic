@@ -2,10 +2,10 @@
 title: Point Cloud Based Window Frame and Other Indoor Objects Detection
 date: 2020-10-10T06:27:04.754Z
 draft: false
-featured: false
+featured: true
 external_link: https://github.com/liuyuex97/24787-Final-Project
 image:
-  filename: inainting.png
+  filename: demo.png
   focal_point: Smart
   preview_only: false
 ---
