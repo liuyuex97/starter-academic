@@ -1,78 +1,43 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Carnegie Mellon University
+    url: ""
+superuser: true
+authors:
+  - admin
+role: Master of Science student in Mechanical Engineering
+avatar_filename: image.png
+bio: My research interests include pointcloud semantic segmentation, shape
+  completion, and vectorized sketch semantic segmentation.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Artificial Intelligence
+  - Computational Geometry
+  - Graph Neural Network
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/liuyuex
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Liuyue_Xie
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/liuyuex97
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: Master of Science
+      institution: Carnegie Mellon University
+      year: 2021
+    - course: Bachelor of Applied Science
+      institution: University of Toronto
+      year: 2016
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
+title: Liuyue(Louise) Xie
+email: liuyuex@andrew.cmu.edu
 ---
+I am currently a Masters student researcher at CERLab, proudly advised by Professor Kenji Shimada. I will complete my Master of Science degree in Meche at Carnegie Mellon University in the upcoming Spring, with specialization in 3D computer vision and deep neural network. My current research focus on Machine Learning, Pointcloud Processing and 2D Computer Vision with Graph Neural Networks. Ultimately, I am interested in developing algorithms that enable remote sensing of hard to reach sites. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I obtained my Bachelors of Applied Science in Mechanical Engineering with dual minors in Robotics and Biomedical Engineering. I have spent two summers working at CIGITI Lab in University of Toronto where I was advised by Professor James Drake and Dr. Thomas Looi on the design of bipolar cauterization forceps for Da Vinci Robot. I also spent a summer at Shanghai Jiao Tong University where I was advised by Professor Xingguo Ming on IOT integrated smart business process framework.
